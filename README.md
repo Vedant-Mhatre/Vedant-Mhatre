@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedant Mhatre</h1>
+<h1 align="center">Hi 👋, I'm Vegithub.com/Vedant-Mhatredant Mhatre</h1>
 <h3 align="center">Cloud | DevOps | Python</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre)
 
-- 📝 I regulary write posts on [https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/](Linkedin)
+- 📝 I regulary write posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 
 - 💬 Ask me about **AWS, GCP, Django, Docker, DevOps**
 
