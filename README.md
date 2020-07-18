@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vegithub.com/Vedant-Mhatredant Mhatre</h1>
+<h1 align="center">Hi 👋, I'm Vedant Mhatre</h1>
 <h3 align="center">Cloud | DevOps | Python</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
