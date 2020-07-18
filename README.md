@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
+- 📝 I regulary write posts on [https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/](Linkedin)
 
 - 💬 Ask me about **AWS, GCP, Django, Docker, DevOps**
 
