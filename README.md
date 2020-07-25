@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
 - 🔭 I’m currently working on [my Alpine-Git-Nginx project](https://github.com/Vedant-Mhatre/Alpine-git-Nginx-deployment)
-
-- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre)
-
+<!--- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre) -->
 - 📝 I regulary write posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 
 - 💬 Ask me about **AWS, GCP, Django, Docker, DevOps**
