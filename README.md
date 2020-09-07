@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on my [AWS-EC2-autoscaling-files](https://github.com/Vedant-Mhatre/AWS-EC2-autoscaling-files)
 <!--- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre) -->
-- 📝 I regulary write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
-
+- 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 - 💬 Ask me about **AWS, GCP, Django, Docker, DevOps**
 
 - 📫 Reach me at **vedant@computer.org**
