@@ -2,10 +2,10 @@
 <h3 align="center">Cloud | Python | Docker</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
-- 🔭 I’m currently working on my [AWS-EC2-autoscaling-files](https://github.com/Vedant-Mhatre/AWS-EC2-autoscaling-files)
+- 🔭 I’m currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
 <!--- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre) -->
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
-- 💬 Ask me about **AWS, GCP, Django, Docker, DevOps**
+- 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
 
 - 📫 Reach me at **vedant@computer.org**
 <!--
