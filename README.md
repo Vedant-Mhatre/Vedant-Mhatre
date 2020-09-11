@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Mhatre</h1>
-<h3 align="center">Cloud | Python | Docker</h3>
+<h3 align="center">Dynamic leader and Cloud engineer with AWS in my heart and python in my mind, Chairperson of @IEEE-APSIT</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
 - 🔭 I’m currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
