@@ -18,8 +18,8 @@
 <a href="https://medium.com/@vedantmh">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
-
+<br><br>
+<div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p> -->
 
@@ -38,3 +38,4 @@
 <a href="https://linkedin.com/in/vedant-mhatre" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedant-mhatre" height="30" width="30" /></a>
 <a href="https://instagram.com/vedant_mhatre_" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedant_mhatre_" height="30" width="30" /></a>
 </p>
+</div>
