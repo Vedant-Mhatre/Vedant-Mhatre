@@ -34,8 +34,4 @@
 -->
 
 
-<p align="center" padding="80px"> <a padding="80px" href="https://twitter.com/vedantmhatre19" target="blank"><img padding="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vedantmhatre19" height="30" width="30" /> </a> 
-<a href="https://linkedin.com/in/vedant-mhatre" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedant-mhatre" height="30" width="30" /></a>
-<a href="https://instagram.com/vedant_mhatre_" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedant_mhatre_" height="30" width="30" /></a>
-</p>
 </div>
