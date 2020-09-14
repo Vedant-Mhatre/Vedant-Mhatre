@@ -1,6 +1,30 @@
-<h1 align="center">Hi there 👋</h1>
+<!-- <h1 align="center">Hi there 👋</h1> -->
 <!-- <h3 align="center">Dynamic leader and Cloud engineer with AWS in my heart and python in my mind, Chairperson of @IEEE-APSIT</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vedant](https://www.linkedin.com/in/vedant-mhatre/) 
+
+<a href="https://www.linkedin.com/in/vedant-mhatre/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/VedantMhatre19">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:vedantmh@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/vedant_mhatre_/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/instagram.svg" />
+</a>
+<a href="https://medium.com/@vedantmh">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+
+<!-- <p align="left">  -->
+<img align="left" src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> 
+<br><br>
 
 - 🔭 I’m currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
 <!--- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre) -->
