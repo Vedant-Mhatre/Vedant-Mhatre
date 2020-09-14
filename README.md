@@ -24,14 +24,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
 ### About Me 🚀
-- 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-- 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things. </br>
+- 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering
+- 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
 - 🔭 Currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
-<!--- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre) -->
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
-
 - 📫 Reach me at **vedant@computer.org**
+
+
 <!--
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center">
 -->
