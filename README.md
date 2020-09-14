@@ -24,11 +24,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
 ### About Me 🚀
-- 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering
+
+- 🎓 I’m an Cloud enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering
+
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
+
 - 🔭 Currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
+
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
+
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
+
 - 📫 Reach me at **vedant@computer.org**
 
 
