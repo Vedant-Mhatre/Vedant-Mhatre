@@ -20,10 +20,15 @@
 </a>
 <br><br>
 <div>
-
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
-- 🔭 I’m currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things. </br>
+
+
+- 🔭 Currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
 <!--- 👨‍💻 All of my projects are available at [github.com/Vedant-Mhatre](github.com/Vedant-Mhatre) -->
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
