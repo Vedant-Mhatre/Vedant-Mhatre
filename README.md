@@ -32,9 +32,9 @@
 - 🔭 Currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
 
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
-
+<!--
 - 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
-
+-->
 - 📫 Reach me at **vedant@computer.org**
 
 
