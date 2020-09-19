@@ -29,7 +29,7 @@
 
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
 
-- 🔭 Currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python)
+- 🔭 Currently working on [Everything-in-python](github.com/Vedant-Mhatre/Everything-in-python) and [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
 
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 <!--
