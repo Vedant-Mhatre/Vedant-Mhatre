@@ -29,7 +29,7 @@
 
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
 
-- 🔭 Currently working on [renovatio-india/uhum](https://github.com/renovatio-india/uhum/tree/firebase)
+- 🔭 Currently working on [renovatio-india/uhum](https://github.com/renovatio-india/uhum/tree/firebase) and [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
 
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 <!--
