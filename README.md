@@ -29,7 +29,7 @@
 
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
 
-- 🔭 Currently working on [hackinutu-CAVE/Food-Portal](https://github.com/hackinutu-CAVE/Food-Portal) and [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
+- 🔭 Currently working on [Django-jenkins-docker-CI-CD-pipeline](https://github.com/Vedant-Mhatre/Django-jenkins-docker-CI-CD-pipeline) and [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
 
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 <!--
