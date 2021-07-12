@@ -25,7 +25,7 @@
 
 ### About Me 🚀
 
-- 🎓 Cloud Intern at [Sapio Analytics](https://sapioanalytics.com/) & a junior pursuing my Bachelors in Computer Science & Engineering
+- 🎓 Cloud Engineer Intern at [Sapio Analytics](https://sapioanalytics.com/) & a junior pursuing my Bachelors in Computer Science & Engineering
 
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
 
