@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi there 👋</h1> -->
-<!-- <h3 align="center">Dynamic leader and Cloud engineer with AWS in my heart and python in my mind, Chairperson of @IEEE-APSIT</h3> -->
+<!-- <h3 align="center">Dynamic leader and Cloud engineer with AWS in my heart and python in my mind</h3> -->
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vedant](https://www.linkedin.com/in/vedant-mhatre/) 
 
@@ -25,7 +25,7 @@
 
 ### About Me 🚀
 
-- 🎓 Cloud Engineer Intern at [Sapio Analytics](https://sapioanalytics.com/) & a junior pursuing my Bachelors in Computer Science & Engineering
+- 🎓 Cloud Engineer Intern at [Blazeclan Technologies](https://www.blazeclan.com/in/) & a junior pursuing my Bachelors in Computer Engineering
 
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
 
@@ -33,7 +33,7 @@
 
 - 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 <!--
-- 💬 Ask me about **AWS, Django, Docker, REST APIs and DevOps**
+- 💬 Ask me about **AWS, Django, Docker, Terraform and DevOps**
 -->
 - 📫 Reach me at **vedant@computer.org**
 
