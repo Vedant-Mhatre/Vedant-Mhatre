@@ -35,7 +35,7 @@
 <!--
 - 💬 Ask me about **AWS, Django, Docker, Terraform and DevOps**
 -->
-- 📫 Reach me at **vedant@computer.org**
+- 📫 Reach me at **vedantmh1@gmail.org**
 
 
 <!--
