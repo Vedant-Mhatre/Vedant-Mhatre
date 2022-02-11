@@ -25,13 +25,13 @@
 
 ### About Me 🚀
 
-- 🎓 Cloud Engineer Intern at [Blazeclan Technologies](https://www.blazeclan.com/in/) & a junior pursuing my Bachelors in Computer Engineering
+- 🎓 Cloud / DevOps Engineer, pursuing Bachelors in Computer Engineering
 
-- 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, Python, Django & I enjoy learning new things
+- 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, DSA, Python, Django & I enjoy learning new things
 
 - 🔭 Currently working on [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
 
-- 📝 I write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
+- 📝 I used to write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 <!--
 - 💬 Ask me about **AWS, Django, Docker, Terraform and DevOps**
 -->
