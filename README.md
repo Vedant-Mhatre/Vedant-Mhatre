@@ -25,7 +25,7 @@
 
 ### About Me 🚀
 
-- 🎓 Cloud / DevOps Engineer, pursuing Bachelors in Computer Engineering
+- 🎓 Software Engineer, pursuing Bachelors in Computer Engineering
 
 - 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, DSA, Python, Django & I enjoy learning new things
 
