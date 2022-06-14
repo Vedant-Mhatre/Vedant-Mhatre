@@ -1,7 +1,4 @@
-<!-- <h1 align="center">Hi there 👋</h1> -->
-<!-- <h3 align="center">Dynamic leader and Cloud engineer with AWS in my heart and python in my mind</h3> -->
-
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vedant](https://www.linkedin.com/in/vedant-mhatre/) 
+## Hi, I'm [Vedant](https://www.linkedin.com/in/vedant-mhatre/) 
 
 <a href="https://www.linkedin.com/in/vedant-mhatre/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -9,7 +6,7 @@
 <a href="https://twitter.com/VedantMhatre19">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:vedantmh@gmail.com">
+<a href="mailto:vedantmh1@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/vedant_mhatre_/">
@@ -20,16 +17,16 @@
 </a>
 <br><br>
 <div>
-  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-mhatre" alt="vedant-mhatre" /> </p>
 
 ### About Me 🚀
 
-- 🎓 Software Engineer, pursuing Bachelors in Computer Engineering
+- 🎓 Software Engineer at Hiver
 
-- 👨‍💻  I am passionate about Cloud, DevOps, Web Dev, DSA, Python, Django & I enjoy learning new things
+- 👨‍💻  I am passionate about DevOps, Web Dev, DSA, Python, Django & I enjoy learning new things
 
-- 🔭 Currently working on [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
+- 🔭 I am looking for collaboraters to improve [AWS-Terraform-Examples](https://github.com/Vedant-Mhatre/AWS-Terraform-Examples)
 
 - 📝 I used to write blog posts on [Linkedin](https://www.linkedin.com/in/vedant-mhatre/detail/recent-activity/shares/)
 <!--
