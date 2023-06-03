@@ -4,4 +4,6 @@
 
 - 👨‍💻  I am passionate about DevOps, Python, Django, Go & I enjoy learning new things
 
-- 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/vedant-mhatre/)
+- 📫  How to reach me: <a href="https://www.linkedin.com/in/vedant-mhatre/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
+
