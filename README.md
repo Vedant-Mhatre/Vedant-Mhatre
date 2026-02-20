@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Vedant
 
-- 👨‍💻  Software engineer who wants to solve real-world problems using technology.
+**Site Reliability Engineering | Platform Engineering | Distributed Systems**
 
-- 👨‍🎓  Currently pursuing Masters in Computer Science at [Virginia Tech](https://www.vt.edu/)
+- 👨‍💻 Software engineer specializing in orchestrating massive compute workloads, building hyper-scalable platforms, and engineering systemic reliability.
+  
+- 🎯 Seeking Full-Time 2026 Site Reliability Engineering (SRE) opportunities.
 
-- 🎯 Seeking Full time 2026 SRE opportunities
+- 🛠️ Core Focus: Distributed Systems, Observability & Telemetry (SLIs/SLOs), Platform Tooling, and Infrastructure Automation.
+
+- 👨‍🎓 Computer Science Graduate, [Virginia Tech](https://www.vt.edu/)
 
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/vedant-mhatre/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="https://twitter.com/VedantMhatre19" target="_blank" rel="noopener noreferrer">Twitter</a>
