@@ -3,8 +3,6 @@
 **Site Reliability Engineering | Platform Engineering | Distributed Systems**
 
 - 👨‍💻 Software engineer specializing in orchestrating massive compute workloads, building hyper-scalable platforms, and engineering systemic reliability.
-  
-- 🎯 Seeking Full-Time 2026 Site Reliability Engineering (SRE) opportunities.
 
 - 🛠️ Core Focus: Distributed Systems, Observability & Telemetry (SLIs/SLOs), Platform Tooling, and Infrastructure Automation.
 
